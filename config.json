@@ -1,11 +1,11 @@
 {
-  "family_name": "Maple Mono",
+  "family_name": "Maple Soopy",
   "use_hinted": true,
   "pool_size": 4,
   "enable_ligature": false,
   "ttfautohint_param": {},
   "github_mirror": "github.com",
-  "infinite_arrow": null,
+  "infinite_arrow": false,
   "remove_tag_liga": false,
   "weight_mapping": {
     "thin": 100,
